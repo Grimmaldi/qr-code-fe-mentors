@@ -1,0 +1,42 @@
+:root {
+    --lightblue-background: rgb(213, 225, 239)
+}
+
+body {
+    background-color: var(--lightblue-background);
+    background-origin: border-box;
+    background-repeat: no-repeat;
+    font-family: "Outfit", sans-serif;
+    /* font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; */
+    text-align: center;
+}
+
+main {
+    display: grid;
+    grid-template-columns: auto 300px auto;
+    min-height: 100vh;
+    align-self: center;
+    justify-self: center;
+}
+
+.card {
+    display: inherit;
+    background-color: white;
+    align-items: center;
+    justify-items: center;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 5px 15px 8px rgb(203, 215, 229);
+    place-self: center;
+}
+
+.card img {
+    display: inherit;
+    width: 260px;
+    border-radius: 10px;
+}
+
+h1 {
+    font-size: 1.3em;
+    
+}
