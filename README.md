@@ -1,6 +1,6 @@
-# Frontend Mentors QR Code Project
+# Frontend Mentors' QR Code Project
 ## Project Description
-This is an attempt to build the Frontend Mentors Beginner's project, QR code.  Since this is a beginner's project, it will only use HTML and CSS.  Yet, I'm happy with this basic focus, as I'm mainly looking to improve my understanding of CSS.
+This is an attempt to build the [Frontend Mentors Beginner's project, QR code](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).  Since this is a beginner's project, it will only use HTML and CSS.  Yet, I'm happy with this basic focus, as I'm mainly looking to improve my understanding of CSS.
 ## Built With
 * HTML
 * CSS
