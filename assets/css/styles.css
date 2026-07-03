@@ -13,7 +13,7 @@ body {
 
 main {
     display: grid;
-    grid-template-columns: auto 300px auto;
+    grid-template-columns: auto 330px auto;
     min-height: 100vh;
     align-self: center;
     justify-self: center;
@@ -32,11 +32,17 @@ main {
 
 .card img {
     display: inherit;
-    width: 260px;
+    width: 290px;
     border-radius: 10px;
 }
 
 h1 {
-    font-size: 1.3em;
-    
+    font-size: 1.5em;
+    margin-bottom: 0.5em;
+}
+
+p {
+    font-weight: lighter;
+    font-size: 1.1em;
+    padding-bottom: 10px;
 }
